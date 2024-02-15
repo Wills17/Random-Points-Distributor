@@ -1,8 +1,8 @@
 # Random-Points-Distributor
 
-This code is a points distributor function designed to allocate a total number of points randomly among a certain number of users while ensuring that the total distributed points are within a certain margin of error from the desired total points.
+This code is a points distributor function designed to allocate a total number of points randomly among a certain number of users while ensuring that the total distributed points are within a stated margin of error from the desired total points.
 
-Breakdown of what the code does:
+## Breakdown of what the code does:
 
 1. It defines a function `points_distributor` which takes two arguments: `num_users` (the number of users) and `total_points` (the total points to be distributed).
 
